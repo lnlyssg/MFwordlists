@@ -1,5 +1,5 @@
 # MFwordlists
-Wordlists for RACF cracking, these have all been taken from various sources (as credited below), any words longer than 8 characters have been removed, all spaces have been stripped out and all words have been converted to upper case.  
+Wordlists for RACF cracking, these have all been taken from various sources (as credited below), any words longer than 8 characters have been removed, all spaces have been stripped out and all words have been converted to upper case. I may make further updates to remove any invalid-for-RACF special characters in future.  
 
 ## Contents  
 RACF_hibp.txt (14MB - 1,547,168 words) - Cracked passwords from [HIBP](https://haveibeenpwned.com/Passwords)  
